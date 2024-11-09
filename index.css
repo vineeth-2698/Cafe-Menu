@@ -1,5 +1,5 @@
 body {
-    background-image: url('https://images.app.goo.gl/VaXK6eRVryfPedqd9');
+    background-image: url("Roasted_coffee_beans.jpg");
     background-size: cover;
     display: flex;
     justify-content: center;
@@ -12,7 +12,7 @@ body {
 .menu-card {
     background-color: #d2b48c;
     padding: 20px;
-    width: 300px;
+    width: 500px;
     text-align: center;
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
 }
